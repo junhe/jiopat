@@ -1,4 +1,4 @@
 jiopat
 ======
 
-jiopat is a toolkit including many tools for I/O Pattern study.
+Please visit http://junhe.github.io/jiopat/ for more information.
